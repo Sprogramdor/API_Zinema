@@ -1,0 +1,12 @@
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\bin\Debug\net6.0\Zinema.Modelo.deps.json
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\bin\Debug\net6.0\Zinema.Modelo.dll
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\bin\Debug\net6.0\Zinema.Modelo.pdb
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\Zinema.Modelo.csproj.AssemblyReference.cache
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\Zinema.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\Zinema.Modelo.AssemblyInfoInputs.cache
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\Zinema.Modelo.AssemblyInfo.cs
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\Zinema.Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\Zinema.Modelo.dll
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\refint\Zinema.Modelo.dll
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\Zinema.Modelo.pdb
+C:\Users\Fbrz\source\repos\Zinema\Zinema.Modelo\obj\Debug\net6.0\ref\Zinema.Modelo.dll
